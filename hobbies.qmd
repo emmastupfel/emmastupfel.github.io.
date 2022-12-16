@@ -1,0 +1,17 @@
+---
+title: "Hobbies"
+editor: visual
+image: basket.png
+about:
+  template: broadside
+  image-shape: rectangle
+  image-width: 15em
+---
+
+## Hobbies:
+
+-   Basket weaving: Had a very rigorous education in basket weaving. The hobby is meditative and a fun activity. Baskets are sold for a profit
+
+-   Skiing: I've been skiing since I was 5, and I love it because it feels like I'm always improving or working on something.
+
+-   Origami: Like basket weaving it is meditative and often I make tiny paper baskets and put them in the baskets that have been woven.

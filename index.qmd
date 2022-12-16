@@ -1,11 +1,34 @@
 ---
 title: "emmastupfel.github.io"
+about:
+  template: broadside
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:noreply@gmail.com
+    - text: YouTube
+      icon: youtube
+      href: https://youtube.com/
 ---
 
-This is a Quarto website.
+## Skills:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+-   Origami
 
-```{r}
-1 + 1
+-   Uni cycling
+
+-   Solving corn mazes
+
+## Education:
+
+-   High school graduate
+
+-   Magician course
+
+-   Basket weaving
+
+```{}
+```
+
+```{}
 ```
